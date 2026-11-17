@@ -1,0 +1,133 @@
+{
+  "_note": "Each theme describes a look in our own words. Prompts never name the decks or artists that inspired them; `inspiredBy` / `inspiredArtist` are only shown on the site as credit.",
+  "themes": [
+    {
+      "id": "gen-ember",
+      "name": "Ember & Ivory",
+      "inspiredBy": "True Black Tarot",
+      "inspiredArtist": "",
+      "blurb": "Porcelain figures floating in black space, lit by molten gold and drifting embers.",
+      "style": "Matte pure-black background with generous empty black space. One central subject floating mid-card under a soft overhead spotlight, with a faint oval pool of light beneath it. Figures and animals are smooth porcelain-white and sculptural, faces masked, serene or turned away. Rich molten gold and amber supply all the colour: glowing embers, drifting gold sparks, gold-leaf discs, warm firelight, glass vessels catching golden light. Soft cinematic lighting, painterly 3D digital rendering, high contrast, minimal, quiet and elegant.",
+      "composition": "A minimal symbolic reinterpretation with one central subject; drop background scenery and keep only the essential figures and symbols floating in the black space.",
+      "suitObjects": {
+        "wands": ["glowing gilded staff sprouting tiny gold leaves", "glowing gilded staffs sprouting tiny gold leaves"],
+        "cups": ["clear glass goblet glowing with liquid gold", "clear glass goblets glowing with liquid gold"],
+        "swords": ["long polished silver sword", "long polished silver swords"],
+        "pentacles": ["gold-leaf coin engraved with a five-pointed star", "gold-leaf coins engraved with a five-pointed star"]
+      },
+      "rules": "Leave the bottom eighth of the image empty black except for one thin, dim silver horizontal hairline."
+    },
+    {
+      "id": "gen-golden-hour",
+      "name": "Golden Hour",
+      "inspiredBy": "The Light Seer's Tarot",
+      "inspiredArtist": "Chris-Anne",
+      "blurb": "Warm, sunlit painterly scenes of modern people, full of glow and texture.",
+      "style": "Warm painterly digital illustration bathed in late-afternoon golden light, with soft lens glow and visible brush texture. Diverse contemporary people with bohemian, earthy clothing, flowing hair and expressive gestures. Palette of honey, peach, terracotta, sage and dusky lilac with luminous highlights. Dreamy, intimate, grounded and hopeful, with subtle sparkle and natural textures (linen, plants, skin, stone).",
+      "composition": "A full scene with one or two people in a natural or home setting; keep the traditional meaning and key symbols but in a present-day world.",
+      "suitObjects": {
+        "wands": ["living wooden staff with fresh green shoots", "living wooden staffs with fresh green shoots"],
+        "cups": ["handmade ceramic cup", "handmade ceramic cups"],
+        "swords": ["slender steel sword", "slender steel swords"],
+        "pentacles": ["golden coin stamped with a five-pointed star", "golden coins stamped with a five-pointed star"]
+      },
+      "rules": "Thin cream border, about two percent of the width, around the whole image."
+    },
+    {
+      "id": "gen-aeon",
+      "name": "Aeon Geometry",
+      "inspiredBy": "the Thoth Tarot",
+      "inspiredArtist": "Aleister Crowley and Lady Frieda Harris",
+      "blurb": "Art Deco geometry, radiating abstract forms and jewel colours steeped in alchemy.",
+      "style": "Esoteric Art Deco painting built from projective geometry: radiating rays, interlocking arcs, crystalline facets and overlapping translucent planes. Saturated jewel colours (emerald, sapphire, crimson, saffron, violet) shading into each other. Egyptian, alchemical and astrological motifs. Figures are stylised and statuesque, partly dissolved into the geometry. Visionary, intense, symmetrical, gouache-and-watercolour texture.",
+      "composition": "A symmetrical, emblematic composition centred on the main figure or symbol, with geometric energy radiating outward to the edges.",
+      "suitObjects": {
+        "wands": ["flaming wand", "flaming wands"],
+        "cups": ["lotus chalice", "lotus chalices"],
+        "swords": ["crystalline sword", "crystalline swords"],
+        "pentacles": ["spinning disk with a five-pointed star at its hub", "spinning disks with a five-pointed star at the hub"]
+      },
+      "rules": "Thin black border around the whole image."
+    },
+    {
+      "id": "gen-crystal",
+      "name": "Crystal Dream",
+      "inspiredBy": "the Crystal Visions Tarot",
+      "inspiredArtist": "Jennifer Galasso",
+      "blurb": "Glowing fantasy painting of crystal, ice and starlight in blues and violets.",
+      "style": "Luminous fantasy digital painting. Ethereal figures with long flowing hair and gowns, delicate features, glowing skin. Crystal, ice, quartz and starlight everywhere, with soft bloom and sparkling light. Palette of icy blue, violet, silver, pale rose and moonlit white. Enchanted, otherworldly, fairy-tale atmosphere, highly detailed.",
+      "composition": "A full fantasy scene based on the traditional card, set in an enchanted crystalline world.",
+      "suitObjects": {
+        "wands": ["crystal-tipped wand", "crystal-tipped wands"],
+        "cups": ["faceted crystal chalice", "faceted crystal chalices"],
+        "swords": ["sword with a clear crystal blade", "swords with clear crystal blades"],
+        "pentacles": ["glowing crystal disc etched with a five-pointed star", "glowing crystal discs etched with a five-pointed star"]
+      },
+      "rules": "Soft silver filigree border around the whole image, with no lettering."
+    },
+    {
+      "id": "gen-moonfaced",
+      "name": "Moonfaced",
+      "inspiredBy": "the Deviant Moon Tarot",
+      "inspiredArtist": "Patrick Valenza",
+      "blurb": "Surreal gothic figures with crescent-moon faces in a muted, collaged dream world.",
+      "style": "Surreal gothic illustration with a hand-made digital collage feel. Elongated, stylised figures with pale crescent-moon-shaped mask faces, stitched and patched clothing, odd jointed limbs. Muted palette of slate grey, olive, bone white, dusty teal and rust, under a night sky. Backdrops of crooked towers, graveyards, carnival and asylum architecture. Eerie, whimsical, theatrical, with textured paper and weathered surfaces.",
+      "composition": "A theatrical full scene based on the traditional card, staged like a strange puppet play.",
+      "suitObjects": {
+        "wands": ["crooked wooden wand", "crooked wooden wands"],
+        "cups": ["tarnished metal goblet", "tarnished metal goblets"],
+        "swords": ["thin rusted sword", "thin rusted swords"],
+        "pentacles": ["weathered bronze coin marked with a five-pointed star", "weathered bronze coins marked with a five-pointed star"]
+      },
+      "rules": "Thin dark border around the whole image."
+    },
+    {
+      "id": "gen-ink-animal",
+      "name": "Ink & Animal",
+      "inspiredBy": "The Wild Unknown Tarot",
+      "inspiredArtist": "Kim Krans",
+      "blurb": "Sparse hand-drawn ink with animals in place of people and small washes of rainbow colour.",
+      "style": "Hand-drawn black ink illustration with fine, slightly imperfect pen lines and hatching on a plain off-white paper background. Lots of empty white space. People are replaced by animals and plants. Colour is used very sparingly: small soft washes of rainbow watercolour on one or two elements only. Simple, primal, raw and intimate.",
+      "composition": "A single central animal, object or natural form that symbolises the card; no human figures.",
+      "suitObjects": {
+        "wands": ["slender branch", "slender branches"],
+        "cups": ["simple goblet", "simple goblets"],
+        "swords": ["simple straight sword", "simple straight swords"],
+        "pentacles": ["round coin marked with a five-pointed star", "round coins marked with a five-pointed star"]
+      },
+      "rules": "Plain off-white background, no border."
+    },
+    {
+      "id": "gen-city-coven",
+      "name": "City Coven",
+      "inspiredBy": "the Modern Witch Tarot",
+      "inspiredArtist": "Lisa Sterle",
+      "blurb": "Flat contemporary fashion illustration of diverse modern women in everyday city life.",
+      "style": "Contemporary flat vector fashion illustration with clean outlines and smooth gradients. Diverse modern women with stylish streetwear, tattoos, sneakers, phones, headphones and houseplants, in apartments, cafes, rooftops and city streets. Bright, saturated palette of hot pink, teal, coral, lavender and sunny yellow. Confident, playful, warm and inclusive.",
+      "composition": "A full present-day scene that translates the traditional card into everyday city life, keeping its key symbols.",
+      "suitObjects": {
+        "wands": ["wooden wand", "wooden wands"],
+        "cups": ["stylish glass cup", "stylish glass cups"],
+        "swords": ["sleek sword", "sleek swords"],
+        "pentacles": ["gold coin with a five-pointed star", "gold coins with a five-pointed star"]
+      },
+      "rules": "Thin white border around the whole image."
+    },
+    {
+      "id": "gen-line-gold",
+      "name": "Line & Gold",
+      "inspiredBy": "the Labyrinthos Tarot",
+      "inspiredArtist": "Tina Gong",
+      "blurb": "Minimal geometric line symbols in black, white and gold.",
+      "style": "Minimal flat geometric line art. Thin, even gold and black lines on a clean white background, built from circles, arcs, triangles and simple icons. No shading, no texture, no realistic people. Elegant, modern, calm and highly symbolic, like a refined icon set.",
+      "composition": "One simple central emblem made from the card's key symbols, arranged symmetrically.",
+      "suitObjects": {
+        "wands": ["line-drawn wand", "line-drawn wands"],
+        "cups": ["line-drawn cup", "line-drawn cups"],
+        "swords": ["line-drawn sword", "line-drawn swords"],
+        "pentacles": ["line-drawn circle containing a five-pointed star", "line-drawn circles containing a five-pointed star"]
+      },
+      "rules": "Plain white background with a thin gold border."
+    }
+  ]
+}

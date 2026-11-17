@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+
+# Local tool state (browser automation logs and a local access token)
+.gstack/
+
+# Image generation: per-run logs (contain local paths) and scratch copies
+tools/generate/logs/
+tools/generate/.work/
+*.tmp.jpg
+
+# Personal decks never live in the repo (they are stored in the browser), but just in case
+assets/decks-private/

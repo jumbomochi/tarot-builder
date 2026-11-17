@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en" data-deck="rws">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Arcana — a tarot study room</title>
+  <meta name="description" content="Learn tarot: all 78 cards across three historic public-domain decks, with meanings, symbolism and interactive spreads.">
+  <link rel="icon" href="assets/card-back.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>
+    /* apply the saved deck's colours before first paint */
+    try {
+      var d = JSON.parse(localStorage.getItem("arcana.deck"));
+      if (d === "rws" || d === "marseille" || d === "visconti") document.documentElement.dataset.deck = d;
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="#/" aria-label="Arcana home">
+        <svg class="brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true">
+          <circle cx="12" cy="12" r="9"/><path d="M12 4l2 6 6 2-6 2-2 6-2-6-6-2 6-2z" fill="currentColor" fill-opacity=".25"/>
+        </svg>
+        <span class="brand-name">Arcana</span>
+      </a>
+      <nav class="nav" aria-label="Main">
+        <a href="#/basics" data-nav="basics">Basics</a>
+        <a href="#/cards" data-nav="cards">Cards</a>
+        <a href="#/spreads" data-nav="spreads">Spreads</a>
+      </nav>
+      <div class="deck-picker" id="deck-picker"></div>
+    </div>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Card images are public-domain scans from Wikimedia Commons: the Rider–Waite–Smith deck (1909, Pamela Colman Smith), the Tarot de Marseille of Jean Dodal (c. 1701–1715) and the Visconti-Sforza tarot (c. 1450s, attributed to Bonifacio Bembo). Generated styles are AI images (Gemini) made from written descriptions; each names the modern deck that inspired it and is not that artist’s work.</p>
+      <p>Made for learning and reflection. Tarot can't predict the future — it's a mirror, not a map.</p>
+    </div>
+  </footer>
+
+  <dialog class="lightbox" id="lightbox" aria-label="Enlarged card"></dialog>
+
+  <script src="data/decks.js"></script>
+  <script src="data/decks-generated.js"></script>
+  <script src="data/spreads.js"></script>
+  <script src="data/cards-major.js"></script>
+  <script src="data/cards-wands-cups.js"></script>
+  <script src="data/cards-swords-pentacles.js"></script>
+  <script src="js/deck-store.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

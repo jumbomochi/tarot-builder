@@ -1,0 +1,1181 @@
+[
+ {
+  "id": "major-00",
+  "name": "The Fool",
+  "arcana": "major",
+  "suit": null,
+  "number": 0,
+  "summary": "A fresh start taken with an open heart and a leap of faith.",
+  "imagery": "A young traveler in a bright patterned tunic strides toward the edge of a cliff, gazing upward rather than at the drop. He carries a small bundle on a staff over his shoulder and a white rose in his other hand. A small white dog leaps at his heels, and a white sun shines in a yellow sky above snow-capped mountains.",
+  "symbols": [
+   "Cliff edge",
+   "White rose",
+   "Bundle on a staff",
+   "White dog",
+   "Snowy mountains"
+  ]
+ },
+ {
+  "id": "major-01",
+  "name": "The Magician",
+  "arcana": "major",
+  "suit": null,
+  "number": 1,
+  "summary": "Focused will and skill turning an idea into reality.",
+  "imagery": "A young man in a white robe and red cloak stands behind a table, raising a white wand toward the sky with one hand and pointing to the ground with the other. An infinity sign floats above his head and a snake biting its own tail serves as his belt. On the table lie a cup, a pentacle, a sword and a wand, and red roses and white lilies grow around him against a yellow background.",
+  "symbols": [
+   "Raised wand and pointing hand",
+   "Infinity sign",
+   "Four suit tools on the table",
+   "Roses and lilies"
+  ]
+ },
+ {
+  "id": "major-02",
+  "name": "The High Priestess",
+  "arcana": "major",
+  "suit": null,
+  "number": 2,
+  "summary": "Inner knowing, quiet intuition and the wisdom of what is hidden.",
+  "imagery": "A woman in flowing blue robes sits between two pillars, one black marked \"B\" and one white marked \"J\". Behind her hangs a veil decorated with pomegranates, and she wears a crown shaped like the full and crescent moons, with a crescent moon at her feet. She holds a partly hidden scroll marked \"TORA\" in her lap, and an equal-armed cross rests on her chest.",
+  "symbols": [
+   "Black and white pillars",
+   "Pomegranate veil",
+   "Partly hidden scroll",
+   "Crescent moon"
+  ]
+ },
+ {
+  "id": "major-03",
+  "name": "The Empress",
+  "arcana": "major",
+  "suit": null,
+  "number": 3,
+  "summary": "Abundance, nurturing and creativity growing in their own time.",
+  "imagery": "A woman sits on a cushioned throne in a lush garden, wearing a crown of twelve stars and a robe patterned with pomegranates. A heart-shaped shield bearing the symbol of Venus rests beside her, and she holds a scepter. Ripe wheat grows at her feet, with a forest and a flowing waterfall behind her.",
+  "symbols": [
+   "Venus symbol on the shield",
+   "Field of wheat",
+   "Crown of twelve stars",
+   "Waterfall and forest"
+  ]
+ },
+ {
+  "id": "major-04",
+  "name": "The Emperor",
+  "arcana": "major",
+  "suit": null,
+  "number": 4,
+  "summary": "Structure, authority and steady leadership that creates stability.",
+  "imagery": "A stern, white-bearded ruler sits on a large stone throne carved with rams' heads. He wears armor beneath a red robe and holds an ankh-shaped scepter in his right hand and an orb in his left. Behind him rise bare orange mountains, with a thin stream running at their base.",
+  "symbols": [
+   "Rams' heads",
+   "Armor under the robe",
+   "Ankh scepter and orb",
+   "Barren mountains"
+  ]
+ },
+ {
+  "id": "major-05",
+  "name": "The Hierophant",
+  "arcana": "major",
+  "suit": null,
+  "number": 5,
+  "summary": "Tradition, shared beliefs and learning from teachers and institutions.",
+  "imagery": "A religious figure in red robes and a triple crown sits between two grey pillars. He raises his right hand in blessing and holds a staff topped with a triple cross in his left. Two crossed keys lie at his feet, and two tonsured figures kneel before him, one robed with roses and one with lilies.",
+  "symbols": [
+   "Crossed keys",
+   "Hand raised in blessing",
+   "Two kneeling followers",
+   "Triple crown and cross"
+  ]
+ },
+ {
+  "id": "major-06",
+  "name": "The Lovers",
+  "arcana": "major",
+  "suit": null,
+  "number": 6,
+  "summary": "Love, union and choices made from the heart and values.",
+  "imagery": "A naked man and woman stand in a garden beneath a large angel with outstretched arms, who appears among clouds with a bright sun behind. Behind the woman is a fruit-bearing tree with a serpent wound around it, and behind the man is a tree whose branches are flames. A tall mountain rises between them in the distance.",
+  "symbols": [
+   "Angel above",
+   "Tree with serpent",
+   "Tree of flames",
+   "Nakedness"
+  ]
+ },
+ {
+  "id": "major-07",
+  "name": "The Chariot",
+  "arcana": "major",
+  "suit": null,
+  "number": 7,
+  "summary": "Determination and self-control steering toward victory.",
+  "imagery": "An armored charioteer stands in a stone chariot beneath a canopy of stars, wearing a star crown and crescent moons on his shoulders. He holds a wand but no reins, and two sphinxes, one black and one white, sit before the chariot. A walled city stands behind him, with a river flowing between.",
+  "symbols": [
+   "Black and white sphinxes",
+   "No reins",
+   "Starry canopy",
+   "City behind"
+  ]
+ },
+ {
+  "id": "major-08",
+  "name": "Strength",
+  "arcana": "major",
+  "suit": null,
+  "number": 8,
+  "summary": "Gentle courage and compassion taming wild energy.",
+  "imagery": "A woman in a white gown, crowned and belted with flowers, gently holds the jaws of a large lion. An infinity sign floats above her head. She stands in an open landscape with a distant mountain under a yellow sky, and the lion appears calm under her touch.",
+  "symbols": [
+   "Lion",
+   "Gentle hands on the lion",
+   "Infinity sign",
+   "Flower garland"
+  ]
+ },
+ {
+  "id": "major-09",
+  "name": "The Hermit",
+  "arcana": "major",
+  "suit": null,
+  "number": 9,
+  "summary": "Stepping back into solitude to seek inner guidance and truth.",
+  "imagery": "An old man in a long grey hooded cloak stands alone on a snowy mountain peak. He holds up a lantern containing a six-pointed star in his right hand and leans on a tall staff with his left. His head is bowed as he looks down the path.",
+  "symbols": [
+   "Lantern with a star",
+   "Staff",
+   "Snowy peak",
+   "Grey cloak"
+  ]
+ },
+ {
+  "id": "major-10",
+  "name": "Wheel of Fortune",
+  "arcana": "major",
+  "suit": null,
+  "number": 10,
+  "summary": "Life's turning cycles, change and the role of chance.",
+  "imagery": "A large wheel floats in a blue sky marked with the letters T-A-R-O, Hebrew letters and alchemical symbols. A blue sphinx holding a sword sits on top, a snake slides down the left side, and a red, jackal-headed figure rises on the right. In the four corners, a winged human, an eagle, a lion and a bull sit on clouds, each reading a book.",
+  "symbols": [
+   "Turning wheel",
+   "Sphinx on top",
+   "Snake and jackal-headed figure",
+   "Four winged creatures"
+  ]
+ },
+ {
+  "id": "major-11",
+  "name": "Justice",
+  "arcana": "major",
+  "suit": null,
+  "number": 11,
+  "summary": "Fairness, truth and the consequences of our choices.",
+  "imagery": "A crowned figure in a red robe sits on a stone throne between two pillars, with a purple veil hung behind. In the right hand an upright double-edged sword points upward, and in the left hand hang golden scales. A white shoe peeks out from beneath the robe.",
+  "symbols": [
+   "Upright sword",
+   "Scales",
+   "Pillars and veil",
+   "White shoe"
+  ]
+ },
+ {
+  "id": "major-12",
+  "name": "The Hanged Man",
+  "arcana": "major",
+  "suit": null,
+  "number": 12,
+  "summary": "Pausing, surrendering and seeing things from a new angle.",
+  "imagery": "A man hangs upside down by one foot from a T-shaped wooden beam that sprouts leaves. His other leg is bent behind the straight one, forming a cross shape, and his hands are behind his back. His face is calm, and a glowing halo surrounds his head.",
+  "symbols": [
+   "Upside-down position",
+   "Halo",
+   "Living wooden beam",
+   "Calm face"
+  ]
+ },
+ {
+  "id": "major-13",
+  "name": "Death",
+  "arcana": "major",
+  "suit": null,
+  "number": 13,
+  "summary": "Endings that clear the way for transformation and renewal.",
+  "imagery": "A skeleton in black armor rides a white horse, carrying a black banner marked with a white five-petaled rose. A king lies fallen beneath the horse, a bishop stands with hands pressed together, and a young woman and a child kneel nearby. In the distance, a boat sails on a river and the sun rises between two towers.",
+  "symbols": [
+   "Skeleton in armor",
+   "White rose banner",
+   "People of all ranks",
+   "Rising sun"
+  ]
+ },
+ {
+  "id": "major-14",
+  "name": "Temperance",
+  "arcana": "major",
+  "suit": null,
+  "number": 14,
+  "summary": "Balance, moderation and patiently blending opposites into harmony.",
+  "imagery": "A winged angel in a white robe, with a triangle inside a square on the chest, stands with one foot in a pool and the other on land. The angel pours water between two cups in a steady stream. A path leads from the pool to distant mountains, where a golden light glows like a crown, and yellow irises grow nearby.",
+  "symbols": [
+   "Water poured between cups",
+   "One foot in water, one on land",
+   "Path to the mountains",
+   "Triangle in a square"
+  ]
+ },
+ {
+  "id": "major-15",
+  "name": "The Devil",
+  "arcana": "major",
+  "suit": null,
+  "number": 15,
+  "summary": "Attachments, habits and illusions that keep us feeling trapped.",
+  "imagery": "A horned, bat-winged figure with a goat's head crouches on a dark pedestal, an inverted pentagram on his brow. He raises one hand and holds a downward-pointing torch in the other. Chained loosely to the pedestal stand a naked man and woman, each with small horns and a tail, the woman's tipped with grapes and the man's with fire.",
+  "symbols": [
+   "Loose chains",
+   "Horned figure",
+   "Downward torch",
+   "Horns and tails on the couple"
+  ]
+ },
+ {
+  "id": "major-16",
+  "name": "The Tower",
+  "arcana": "major",
+  "suit": null,
+  "number": 16,
+  "summary": "Sudden upheaval that breaks down false structures and reveals truth.",
+  "imagery": "A tall stone tower on a rocky peak is struck by lightning, and its crown-shaped top is blasted off. Flames burst from the windows as two figures fall headfirst through the air. Small flame-like drops rain down against a black sky.",
+  "symbols": [
+   "Lightning bolt",
+   "Falling crown",
+   "Falling figures",
+   "Tower on a rock"
+  ]
+ },
+ {
+  "id": "major-17",
+  "name": "The Star",
+  "arcana": "major",
+  "suit": null,
+  "number": 17,
+  "summary": "Hope, healing and quiet faith in the future.",
+  "imagery": "A naked woman kneels by a pool, with one foot in the water and one knee on the land. She pours water from two jugs, one into the pool and one onto the ground, where it runs in several small streams. Above her shines a large eight-pointed star surrounded by seven smaller stars, and a bird perches in a tree behind her.",
+  "symbols": [
+   "Large star and seven smaller stars",
+   "Two jugs of water",
+   "Nakedness",
+   "Bird in the tree"
+  ]
+ },
+ {
+  "id": "major-18",
+  "name": "The Moon",
+  "arcana": "major",
+  "suit": null,
+  "number": 18,
+  "summary": "Uncertainty, illusion and the pull of dreams and fears.",
+  "imagery": "A full moon containing a crescent and a face shines above, with drops falling from it. Below, a dog and a wolf howl up at it, and a crayfish crawls out of a pool in the foreground. A winding path runs between two towers and off toward distant mountains.",
+  "symbols": [
+   "Dog and wolf",
+   "Crayfish from the pool",
+   "Winding path",
+   "Two towers"
+  ]
+ },
+ {
+  "id": "major-19",
+  "name": "The Sun",
+  "arcana": "major",
+  "suit": null,
+  "number": 19,
+  "summary": "Joy, vitality and the warmth of clarity and success.",
+  "imagery": "A naked child with a wreath of flowers and a red feather rides a white horse, holding a large red banner. A large sun with a face shines overhead, sending out straight and wavy rays. Behind the child, tall sunflowers lean over a grey stone wall.",
+  "symbols": [
+   "Radiant sun",
+   "Child on a white horse",
+   "Sunflowers",
+   "Stone wall"
+  ]
+ },
+ {
+  "id": "major-20",
+  "name": "Judgement",
+  "arcana": "major",
+  "suit": null,
+  "number": 20,
+  "summary": "Awakening, reflection and answering a deeper inner calling.",
+  "imagery": "A great angel among the clouds blows a trumpet hung with a white banner bearing a red cross. Below, a man, a woman and a child rise from open coffins floating on water, their arms raised toward the angel. Snow-capped mountains stand in the background.",
+  "symbols": [
+   "Angel's trumpet",
+   "Rising figures",
+   "Open coffins",
+   "Red cross banner"
+  ]
+ },
+ {
+  "id": "major-21",
+  "name": "The World",
+  "arcana": "major",
+  "suit": null,
+  "number": 21,
+  "summary": "Completion, wholeness and the satisfaction of a cycle fulfilled.",
+  "imagery": "A figure wrapped in a flowing violet sash seems to dance in the air, holding a wand in each hand. Around the figure is a large oval laurel wreath, tied at top and bottom with red ribbons. In the four corners are a winged human, an eagle, a bull and a lion among clouds.",
+  "symbols": [
+   "Laurel wreath",
+   "Dancing figure",
+   "Two wands",
+   "Four creatures in the corners"
+  ]
+ },
+ {
+  "id": "wands-01",
+  "name": "Ace of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 1,
+  "summary": "A spark of inspiration, energy, and the urge to begin.",
+  "imagery": "A hand emerges from a grey cloud on the right, firmly gripping a stout wooden wand that is sprouting fresh green leaves. A few loose leaves drift down through the air. Below lies a peaceful landscape with a river, trees, and a castle on a distant hill.",
+  "symbols": [
+   "Hand from the cloud",
+   "Sprouting wand",
+   "Falling leaves",
+   "Distant castle"
+  ]
+ },
+ {
+  "id": "wands-02",
+  "name": "Two of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 2,
+  "summary": "Planning your next move and seeing a wider world of possibility.",
+  "imagery": "A man in a red cap and robe stands on the battlements of a castle, holding a small globe in his right hand and a wand in his left. A second wand is fixed to the wall beside him. He looks out over a wide view of sea and land, and on the stonework nearby is an emblem of crossed roses and lilies.",
+  "symbols": [
+   "Globe",
+   "Castle battlements",
+   "Two wands",
+   "Rose and lily emblem"
+  ]
+ },
+ {
+  "id": "wands-03",
+  "name": "Three of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 3,
+  "summary": "Plans in motion; looking ahead as your efforts begin to expand.",
+  "imagery": "A figure in a red and green robe stands with his back to us on a cliff edge, holding one of three wands planted in the ground beside him. He gazes out over a golden sea where ships are sailing. The scene feels calm and expectant, as if he is watching his ventures go out.",
+  "symbols": [
+   "Ships at sea",
+   "Cliff top",
+   "Three planted wands",
+   "Figure seen from behind"
+  ]
+ },
+ {
+  "id": "wands-04",
+  "name": "Four of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 4,
+  "summary": "Celebration, homecoming, and a joyful moment of stability.",
+  "imagery": "Four wands stand planted in the foreground with a garland of flowers and fruit hung across the top. Behind them, two figures raise bouquets of flowers in celebration, and other people gather near a castle or manor house. A bridge leads toward the building, suggesting arrival and welcome.",
+  "symbols": [
+   "Garland",
+   "Four wands",
+   "Raised bouquets",
+   "Castle or manor"
+  ]
+ },
+ {
+  "id": "wands-05",
+  "name": "Five of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 5,
+  "summary": "Competition, friction, and clashing energies that need direction.",
+  "imagery": "Five young men in differently colored clothes brandish wands at one another on uneven ground. Their staves cross in a jumble, but no one appears hurt, and it looks more like a scuffle, game, or mock battle than a real fight. There is no clear leader or winner.",
+  "symbols": [
+   "Crossing wands",
+   "Different clothing",
+   "No one injured",
+   "Uneven ground"
+  ]
+ },
+ {
+  "id": "wands-06",
+  "name": "Six of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 6,
+  "summary": "Victory, recognition, and public success after effort.",
+  "imagery": "A man wearing a laurel wreath rides a white horse through a crowd, holding a wand that is also tied with a laurel wreath. Several people on foot walk beside him carrying their own wands. The horse wears a green cloth, and the scene feels like a victory parade.",
+  "symbols": [
+   "Laurel wreaths",
+   "White horse",
+   "Crowd of supporters",
+   "Raised position"
+  ]
+ },
+ {
+  "id": "wands-07",
+  "name": "Seven of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 7,
+  "summary": "Standing your ground and defending what you believe in.",
+  "imagery": "A young man stands on a rise, holding a wand crosswise as he fends off six wands thrusting up toward him from below. His expression is determined. Notably, he wears mismatched footwear, one shoe and one boot, as if he had to rush into action.",
+  "symbols": [
+   "Higher ground",
+   "Six wands from below",
+   "Mismatched shoes",
+   "Defensive stance"
+  ]
+ },
+ {
+  "id": "wands-08",
+  "name": "Eight of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 8,
+  "summary": "Swift movement, quick news, and things finally picking up speed.",
+  "imagery": "Eight wands fly through the open sky in parallel, angled downward as if about to land. Beneath them is a peaceful countryside with a river and a house on a hill. There are no people in the scene, only the wands in motion.",
+  "symbols": [
+   "Flying wands",
+   "Downward angle",
+   "Open sky",
+   "River"
+  ]
+ },
+ {
+  "id": "wands-09",
+  "name": "Nine of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 9,
+  "summary": "Resilience and persistence when you are tired but nearly there.",
+  "imagery": "A man with a bandaged head leans on a wand, watching warily over his shoulder. Behind him eight more wands stand upright in a row like a fence or palisade. His posture is tense and alert, as if expecting another challenge.",
+  "symbols": [
+   "Bandaged head",
+   "Row of wands",
+   "Leaning on a wand",
+   "Watchful glance"
+  ]
+ },
+ {
+  "id": "wands-10",
+  "name": "Ten of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 10,
+  "summary": "Carrying too much: burden, responsibility, and the need to share the load.",
+  "imagery": "A man walks bent over, struggling to carry a large bundle of ten wands clutched in his arms. The wands block his view of where he is going. In the distance is a house or small town, the destination he is slowly heading toward.",
+  "symbols": [
+   "Bundle of ten wands",
+   "Bent posture",
+   "Blocked view",
+   "Distant house"
+  ]
+ },
+ {
+  "id": "wands-11",
+  "name": "Page of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 11,
+  "summary": "Curious enthusiasm and a messenger of exciting new ideas.",
+  "imagery": "A young man in a tunic decorated with salamanders and a feathered cap stands in a desert landscape, holding a tall wand upright and gazing at its top. Behind him are three pyramid-shaped mounds. His stance is open and attentive, as if announcing something.",
+  "symbols": [
+   "Salamanders on tunic",
+   "Gazing at the wand",
+   "Desert and pyramids",
+   "Feathered cap"
+  ]
+ },
+ {
+  "id": "wands-12",
+  "name": "Knight of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 12,
+  "summary": "Bold, passionate action and a hunger for adventure.",
+  "imagery": "A knight in armor, wearing a yellow tunic covered with salamanders, rides a rearing horse and holds a wand aloft. Flame-like plumes stream from his helmet. Behind him stretch a desert and pyramid-shaped mounds, suggesting a journey through open country.",
+  "symbols": [
+   "Rearing horse",
+   "Salamanders",
+   "Flame-like plumes",
+   "Desert landscape"
+  ]
+ },
+ {
+  "id": "wands-13",
+  "name": "Queen of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 13,
+  "summary": "Warm confidence, courage, and vibrant, magnetic energy.",
+  "imagery": "A queen sits on a throne decorated with lions, holding a wand in her right hand and a sunflower in her left. A black cat sits in front of the throne at her feet. Behind her, the throne's backdrop shows more lions and sunflowers against a clear sky.",
+  "symbols": [
+   "Sunflower",
+   "Lions",
+   "Black cat",
+   "Blossoming wand"
+  ]
+ },
+ {
+  "id": "wands-14",
+  "name": "King of Wands",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 14,
+  "summary": "Visionary leadership that turns big ideas into reality.",
+  "imagery": "A king sits on a throne decorated with lions and salamanders, holding a blossoming wand. His cloak also bears salamanders, and his crown is shaped like flames. A small living salamander rests on the ground beside the throne.",
+  "symbols": [
+   "Salamanders",
+   "Lions on the throne",
+   "Flame-shaped crown",
+   "Blossoming wand"
+  ]
+ },
+ {
+  "id": "cups-01",
+  "name": "Ace of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 1,
+  "summary": "A new beginning in feelings: love, compassion, and emotional renewal.",
+  "imagery": "A hand emerges from a cloud holding a golden cup from which five streams of water overflow. A white dove descends toward the cup carrying a small wafer marked with a cross. Drops of water fall around it, and below is a pond covered with water lilies.",
+  "symbols": [
+   "Overflowing cup",
+   "Dove with wafer",
+   "Five streams",
+   "Water lilies"
+  ]
+ },
+ {
+  "id": "cups-02",
+  "name": "Two of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 2,
+  "summary": "Mutual connection, partnership, and a meeting of hearts.",
+  "imagery": "A young man and woman face each other, each holding a cup, as if exchanging a pledge. Between and above them floats a caduceus, a staff with two entwined snakes, topped by a winged lion's head. A house sits on a hill in the background.",
+  "symbols": [
+   "Exchanged cups",
+   "Caduceus",
+   "Winged lion's head",
+   "Two figures facing"
+  ]
+ },
+ {
+  "id": "cups-03",
+  "name": "Three of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 3,
+  "summary": "Friendship, celebration, and joy shared with others.",
+  "imagery": "Three young women dance in a circle in a garden, each raising a cup high in a toast. At their feet lie fruits and gourds from a harvest. They wear flowing robes and garlands, and the mood is joyful and relaxed.",
+  "symbols": [
+   "Raised cups",
+   "Circle of three",
+   "Harvest fruits",
+   "Dancing"
+  ]
+ },
+ {
+  "id": "cups-04",
+  "name": "Four of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 4,
+  "summary": "Apathy, contemplation, and not noticing what is being offered.",
+  "imagery": "A young man sits under a tree with his arms and legs crossed, looking down at three cups lined up on the grass before him. From a cloud beside him, a hand offers a fourth cup, which he does not seem to notice. His expression is withdrawn and thoughtful.",
+  "symbols": [
+   "Crossed arms",
+   "Offered cup",
+   "Three cups on the ground",
+   "Tree"
+  ]
+ },
+ {
+  "id": "cups-05",
+  "name": "Five of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 5,
+  "summary": "Grief and regret over loss, while something still remains.",
+  "imagery": "A figure in a long black cloak stands with head bowed, looking at three cups that have tipped over and spilled. Behind the figure, two cups remain standing upright. A river flows nearby, and a bridge leads across it to a house or castle.",
+  "symbols": [
+   "Spilled cups",
+   "Standing cups",
+   "Black cloak",
+   "Bridge"
+  ]
+ },
+ {
+  "id": "cups-06",
+  "name": "Six of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 6,
+  "summary": "Nostalgia, innocence, and the sweetness of memory and kindness.",
+  "imagery": "In an old garden, a boy offers a little girl a cup filled with white star-shaped flowers. Six cups stand around them, each holding blossoms. Behind them is an old house or castle, and a guard walks away in the background.",
+  "symbols": [
+   "Children",
+   "Cup of flowers",
+   "Old house",
+   "Departing guard"
+  ]
+ },
+ {
+  "id": "cups-07",
+  "name": "Seven of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 7,
+  "summary": "Many choices and daydreams; separating fantasy from reality.",
+  "imagery": "A dark figure, seen from behind, stands before seven cups floating in the clouds. Each cup holds a different vision: a head, a glowing veiled figure, a snake, a castle, jewels, a laurel wreath, and a dragon. The scene feels dreamlike and uncertain.",
+  "symbols": [
+   "Seven floating cups",
+   "Clouds",
+   "Veiled figure",
+   "Castle and jewels",
+   "Snake and dragon"
+  ]
+ },
+ {
+  "id": "cups-08",
+  "name": "Eight of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 8,
+  "summary": "Walking away from what no longer fulfills you to seek deeper meaning.",
+  "imagery": "A figure in a red cloak, holding a staff, walks away from eight cups stacked in the foreground, heading toward rocky hills. Above, a moon shows both a crescent and a full face, as if in eclipse. Water lies between the cups and the path ahead.",
+  "symbols": [
+   "Stacked cups",
+   "Walking figure",
+   "Moon",
+   "Rocky hills"
+  ]
+ },
+ {
+  "id": "cups-09",
+  "name": "Nine of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 9,
+  "summary": "Contentment, satisfaction, and wishes coming true.",
+  "imagery": "A well-fed man sits on a wooden bench with his arms crossed, smiling contentedly and wearing a red hat. Behind him, nine cups stand in a row on a curved shelf draped with blue cloth. He looks pleased and satisfied with what he has.",
+  "symbols": [
+   "Nine cups on display",
+   "Crossed arms and smile",
+   "Blue cloth",
+   "Seated figure"
+  ]
+ },
+ {
+  "id": "cups-10",
+  "name": "Ten of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 10,
+  "summary": "Emotional fulfillment, family harmony, and lasting happiness.",
+  "imagery": "A couple stands with their arms around each other, one arm raised toward a rainbow in the sky that holds ten cups. Nearby, two children dance happily. In the background are a green landscape, a river, and a cozy house.",
+  "symbols": [
+   "Rainbow of cups",
+   "Embracing couple",
+   "Dancing children",
+   "House"
+  ]
+ },
+ {
+  "id": "cups-11",
+  "name": "Page of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 11,
+  "summary": "A gentle, imaginative messenger of feelings and creative surprises.",
+  "imagery": "A young page in a blue tunic patterned with lotus flowers stands by the sea, holding a cup in his right hand. A small fish pokes its head out of the cup, and he looks at it with curiosity. Behind him the sea rolls with gentle waves.",
+  "symbols": [
+   "Fish in the cup",
+   "Sea",
+   "Lotus tunic",
+   "Curious gaze"
+  ]
+ },
+ {
+  "id": "cups-12",
+  "name": "Knight of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 12,
+  "summary": "A romantic idealist following the heart with an offering.",
+  "imagery": "A knight in armor rides a white horse at a slow, calm pace, holding a cup out before him as if offering it. He wears a winged helmet and heels, and his tunic is decorated with fish. A river flows across the landscape behind him.",
+  "symbols": [
+   "Offered cup",
+   "Winged helmet",
+   "Calm white horse",
+   "River"
+  ]
+ },
+ {
+  "id": "cups-13",
+  "name": "Queen of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 13,
+  "summary": "Compassion, emotional depth, and intuitive care.",
+  "imagery": "A queen sits on a throne at the edge of the sea, decorated with small water-sprite figures. She holds an ornate, lidded cup with angel-like handles and gazes at it intently. Water laps at the pebbled shore around her feet.",
+  "symbols": [
+   "Closed, ornate cup",
+   "Throne by the sea",
+   "Water sprites",
+   "Steady gaze"
+  ]
+ },
+ {
+  "id": "cups-14",
+  "name": "King of Cups",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 14,
+  "summary": "Emotional balance, calm wisdom, and steady compassion.",
+  "imagery": "A king sits on a stone throne that floats on a rough sea, holding a cup in his right hand and a short scepter in his left. He wears a fish-shaped amulet around his neck. On one side a ship sails, and on the other a fish leaps from the water.",
+  "symbols": [
+   "Throne on the sea",
+   "Fish amulet",
+   "Ship",
+   "Leaping fish"
+  ]
+ },
+ {
+  "id": "swords-01",
+  "name": "Ace of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 1,
+  "summary": "A breakthrough of clear thinking that cuts through confusion.",
+  "imagery": "A hand emerges from a cloud on the right, gripping an upright double-edged sword. The sword's tip passes through a golden crown hung with an olive branch and a palm branch, and small golden flames (yods) drift down around it. Below lie bare, rugged mountains under a grey sky.",
+  "symbols": [
+   "Upright sword",
+   "Crown",
+   "Olive and palm branches",
+   "Hand from the cloud",
+   "Barren mountains"
+  ]
+ },
+ {
+  "id": "swords-02",
+  "name": "Two of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 2,
+  "summary": "A stalemate or hard choice you are avoiding by not looking.",
+  "imagery": "A woman in a white robe sits on a stone bench by the sea at night, blindfolded. She holds two long swords crossed over her chest, perfectly balanced. Behind her the water is dotted with rocks, and a crescent moon hangs in the upper right.",
+  "symbols": [
+   "Blindfold",
+   "Crossed swords",
+   "Crescent moon",
+   "Rocky sea"
+  ]
+ },
+ {
+  "id": "swords-03",
+  "name": "Three of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 3,
+  "summary": "Heartbreak, grief, and painful truth that needs to be felt.",
+  "imagery": "A large red heart floats in the center, pierced by three swords. Behind it, heavy grey storm clouds pour down rain. There are no people in the scene, only the heart and the weather.",
+  "symbols": [
+   "Pierced heart",
+   "Three swords",
+   "Storm clouds and rain"
+  ]
+ },
+ {
+  "id": "swords-04",
+  "name": "Four of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 4,
+  "summary": "Rest, retreat, and quiet recovery after strain.",
+  "imagery": "Inside a church, the stone effigy of a knight lies on a tomb with his hands joined in prayer. Three swords hang on the wall above him, pointing down, and a fourth lies along the side of the tomb. A stained-glass window in the upper corner shows a figure kneeling before another.",
+  "symbols": [
+   "Resting knight",
+   "Hanging swords",
+   "Single sword beneath",
+   "Stained-glass window"
+  ]
+ },
+ {
+  "id": "swords-05",
+  "name": "Five of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 5,
+  "summary": "A hollow victory; winning the argument but losing something more.",
+  "imagery": "A smirking young man in the foreground gathers up swords, holding three while two more lie on the ground. Behind him, two defeated figures walk away toward the water, one with his head bowed in his hands. Jagged, broken clouds streak the sky.",
+  "symbols": [
+   "Smirking man",
+   "Collected swords",
+   "Departing figures",
+   "Jagged clouds"
+  ]
+ },
+ {
+  "id": "swords-06",
+  "name": "Six of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 6,
+  "summary": "Moving on from difficulty toward calmer waters.",
+  "imagery": "A ferryman poles a small boat across the water toward a distant shore. A hooded woman and a child sit huddled in the boat, with six swords standing upright in front of them. The water on the right is rough, while the water ahead on the left is smooth.",
+  "symbols": [
+   "Boat",
+   "Ferryman",
+   "Rough and smooth water",
+   "Upright swords"
+  ]
+ },
+ {
+  "id": "swords-07",
+  "name": "Seven of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 7,
+  "summary": "Strategy, stealth, or getting away with something.",
+  "imagery": "A man tiptoes away from a military camp with tents in the background, carrying five swords bundled in his arms. He glances back over his shoulder with a sly smile, leaving two swords still stuck in the ground. Small figures stand near the camp in the distance against a yellow sky.",
+  "symbols": [
+   "Tiptoeing man",
+   "Five swords carried",
+   "Two swords left behind",
+   "Distant camp"
+  ]
+ },
+ {
+  "id": "swords-08",
+  "name": "Eight of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 8,
+  "summary": "Feeling trapped by thoughts more than by real limits.",
+  "imagery": "A woman in a red dress stands bound and blindfolded in shallow, marshy ground. Eight swords are planted around her like a loose fence, but they do not fully enclose her. In the distance a castle sits on a cliff under a grey sky.",
+  "symbols": [
+   "Blindfold",
+   "Loose bindings",
+   "Open fence of swords",
+   "Distant castle"
+  ]
+ },
+ {
+  "id": "swords-09",
+  "name": "Nine of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 9,
+  "summary": "Anxiety, worry, and sleepless nights of overthinking.",
+  "imagery": "A woman sits up in bed in the dark, her face buried in her hands. Nine swords are lined up horizontally on the black wall behind her. Her quilt is decorated with roses and astrological symbols, and the side of the bed is carved with a scene of one figure defeating another.",
+  "symbols": [
+   "Woman in bed",
+   "Nine swords on the wall",
+   "Black background",
+   "Quilt of roses and zodiac signs",
+   "Carved bed panel"
+  ]
+ },
+ {
+  "id": "swords-10",
+  "name": "Ten of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 10,
+  "summary": "A painful ending, hitting bottom, and the dawn that follows.",
+  "imagery": "A man lies face down on the shore with ten swords in his back and a red cloth draped over him. Above him the sky is black, but along the horizon a golden dawn breaks over calm water. His right hand forms a gesture often read as a sign of blessing.",
+  "symbols": [
+   "Ten swords",
+   "Black sky",
+   "Golden dawn",
+   "Calm water",
+   "Hand gesture"
+  ]
+ },
+ {
+  "id": "swords-11",
+  "name": "Page of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 11,
+  "summary": "A curious, alert mind eager to learn and speak up.",
+  "imagery": "A young person stands on uneven, hilly ground, holding a sword upright with both hands and looking off to one side. The wind tosses the clouds and bends the trees behind them. A flock of birds flies high in the sky.",
+  "symbols": [
+   "Raised sword",
+   "Windswept clouds and trees",
+   "Birds",
+   "Uneven ground"
+  ]
+ },
+ {
+  "id": "swords-12",
+  "name": "Knight of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 12,
+  "summary": "Charging ahead with ambition, speed, and conviction.",
+  "imagery": "A knight in armor charges at full gallop on a white horse, his sword raised high. The trees are bent and the clouds torn by strong wind. The horse's harness is decorated with butterflies and birds.",
+  "symbols": [
+   "Galloping horse",
+   "Raised sword",
+   "Wind-bent trees",
+   "Butterflies and birds on the harness"
+  ]
+ },
+ {
+  "id": "swords-13",
+  "name": "Queen of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 13,
+  "summary": "Clear-eyed honesty and independent judgment, tempered by experience.",
+  "imagery": "A queen sits on a stone throne in profile, facing right, holding an upright sword in her right hand and extending her left hand as if in welcome. Her crown and throne are decorated with butterflies, and the throne also bears a crescent moon and a small winged head. Clouds gather below, and a single bird flies high above.",
+  "symbols": [
+   "Upright sword",
+   "Extended hand",
+   "Butterflies",
+   "Single bird",
+   "Clouds below"
+  ]
+ },
+ {
+  "id": "swords-14",
+  "name": "King of Swords",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 14,
+  "summary": "Authority grounded in reason, fairness, and clear thinking.",
+  "imagery": "A king sits facing forward on a high throne, holding an upright sword slightly tilted in his right hand. His throne is carved with butterflies, crescent moons, and a small winged figure. Behind him are tall trees and clouds, with two birds in the sky.",
+  "symbols": [
+   "Upright sword",
+   "Forward-facing gaze",
+   "Butterflies and crescent moons",
+   "Two birds"
+  ]
+ },
+ {
+  "id": "pentacles-01",
+  "name": "Ace of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 1,
+  "summary": "A new opportunity for prosperity, security, and tangible growth.",
+  "imagery": "A hand emerges from a cloud on the left, holding out a large golden pentacle. Below lies a lush garden with white lilies, and a path leads through an archway of hedges and roses toward distant mountains.",
+  "symbols": [
+   "Pentacle in the hand",
+   "Garden",
+   "Rose archway",
+   "Distant mountains",
+   "Lilies"
+  ]
+ },
+ {
+  "id": "pentacles-02",
+  "name": "Two of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 2,
+  "summary": "Juggling priorities and adapting to life's ups and downs.",
+  "imagery": "A young man in a tall hat dances while juggling two pentacles, which are linked by a green ribbon looped in a figure-eight. Behind him, two ships ride high, rolling waves on the sea.",
+  "symbols": [
+   "Infinity loop",
+   "Juggled pentacles",
+   "Ships on the waves",
+   "Dancing figure"
+  ]
+ },
+ {
+  "id": "pentacles-03",
+  "name": "Three of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 3,
+  "summary": "Teamwork, skill, and building something well together.",
+  "imagery": "Inside a cathedral, a stonemason stands on a bench working on a carved archway. Below him, a monk and a cloaked figure holding a sheet of plans consult with him about the work. Three pentacles are carved into the stone arch above.",
+  "symbols": [
+   "Stonemason",
+   "Monk and planner",
+   "Plans",
+   "Cathedral arch"
+  ]
+ },
+ {
+  "id": "pentacles-04",
+  "name": "Four of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 4,
+  "summary": "Holding on tightly for security, sometimes too tightly.",
+  "imagery": "A crowned man sits on a stone block with a city behind him. He clutches one pentacle tightly against his chest, balances another on top of his crown, and rests his feet on two more.",
+  "symbols": [
+   "Clutched pentacle",
+   "Pentacles under his feet",
+   "Pentacle on the crown",
+   "City behind him"
+  ]
+ },
+ {
+  "id": "pentacles-05",
+  "name": "Five of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 5,
+  "summary": "Hardship and feeling left out in the cold, with help nearby.",
+  "imagery": "Two poor figures trudge through the snow at night: one limps on crutches with a bandaged head, and the other, a woman wrapped in a shawl, walks barefoot. Behind them glows a stained-glass church window showing five pentacles. They pass by without seeming to notice it.",
+  "symbols": [
+   "Snow",
+   "Crutches and bare feet",
+   "Lit church window",
+   "Passing by"
+  ]
+ },
+ {
+  "id": "pentacles-06",
+  "name": "Six of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 6,
+  "summary": "Giving and receiving, generosity, and fair exchange.",
+  "imagery": "A well-dressed merchant holds a set of balanced scales in one hand while dropping coins into the hand of a kneeling beggar with the other. A second beggar kneels beside them, waiting. Six pentacles float in the sky above.",
+  "symbols": [
+   "Balanced scales",
+   "Merchant",
+   "Kneeling beggars",
+   "Coins being given"
+  ]
+ },
+ {
+  "id": "pentacles-07",
+  "name": "Seven of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 7,
+  "summary": "Pausing to assess growth and patiently investing in the long term.",
+  "imagery": "A young farmer leans on his hoe, gazing thoughtfully at a leafy green bush. Seven pentacles grow among its leaves like ripening fruit, six on the plant and one at his feet.",
+  "symbols": [
+   "Leaning on the hoe",
+   "Pentacles on the bush",
+   "Single pentacle at his feet",
+   "Thoughtful gaze"
+  ]
+ },
+ {
+  "id": "pentacles-08",
+  "name": "Eight of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 8,
+  "summary": "Dedicated practice, craftsmanship, and mastering a skill.",
+  "imagery": "A craftsman sits at his workbench, carefully carving a pentacle with hammer and chisel. Six finished pentacles are displayed on a post beside him and another lies on the ground at his feet. A town sits in the distance, set apart from his focused work.",
+  "symbols": [
+   "Carving craftsman",
+   "Row of finished pentacles",
+   "Hammer and chisel",
+   "Distant town"
+  ]
+ },
+ {
+  "id": "pentacles-09",
+  "name": "Nine of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 9,
+  "summary": "Self-sufficiency, comfort, and enjoying the rewards of your effort.",
+  "imagery": "An elegant woman in a robe patterned with flowers stands in a lush vineyard heavy with grapes. A hooded falcon perches on her gloved left hand, while her right hand rests near the nine pentacles growing among the vines. A small snail crawls on the ground, and a manor house stands in the background.",
+  "symbols": [
+   "Hooded falcon",
+   "Vineyard and grapes",
+   "Snail",
+   "Manor house",
+   "Flowered robe"
+  ]
+ },
+ {
+  "id": "pentacles-10",
+  "name": "Ten of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 10,
+  "summary": "Lasting wealth, family, legacy, and long-term security.",
+  "imagery": "An old man in a richly patterned robe sits under a stone archway, petting two white dogs. Nearby, a young couple talk and a child peeks out from behind the woman. Ten pentacles are arranged across the scene in the pattern of the Kabbalistic Tree of Life, and a coat of arms hangs on the arch.",
+  "symbols": [
+   "Three generations",
+   "Ten pentacles in the Tree of Life pattern",
+   "Two dogs",
+   "Archway and coat of arms"
+  ]
+ },
+ {
+  "id": "pentacles-11",
+  "name": "Page of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 11,
+  "summary": "A grounded student ready to learn and turn ideas into reality.",
+  "imagery": "A young man stands in a green meadow dotted with flowers, holding a single pentacle up in both hands and gazing at it intently. Behind him are freshly ploughed fields, a grove of trees, and a distant mountain under a yellow sky.",
+  "symbols": [
+   "Raised pentacle",
+   "Ploughed field",
+   "Flowering meadow",
+   "Distant mountain"
+  ]
+ },
+ {
+  "id": "pentacles-12",
+  "name": "Knight of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 12,
+  "summary": "Slow, steady, reliable progress through hard work.",
+  "imagery": "A knight in armor sits on a heavy black horse that stands perfectly still. He holds a pentacle in his hand and studies it, and his helmet and the horse's head are decorated with sprigs of oak leaves. Behind him stretch neatly ploughed fields.",
+  "symbols": [
+   "Standing black horse",
+   "Pentacle in hand",
+   "Ploughed fields",
+   "Oak leaves"
+  ]
+ },
+ {
+  "id": "pentacles-13",
+  "name": "Queen of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 13,
+  "summary": "Nurturing, practical care, and a warm, abundant home.",
+  "imagery": "A queen sits on an ornate stone throne in a garden, gazing down at the pentacle she cradles in her lap. Her throne is carved with goat heads, fruit, and cherubs, and a bower of roses arches above her. A small rabbit sits in the lower right corner amid lush greenery.",
+  "symbols": [
+   "Pentacle in her lap",
+   "Rabbit",
+   "Rose bower",
+   "Goat heads on the throne",
+   "Fruit and greenery"
+  ]
+ },
+ {
+  "id": "pentacles-14",
+  "name": "King of Pentacles",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 14,
+  "summary": "Prosperity, stability, and leadership built on practical success.",
+  "imagery": "A king sits on a throne carved with bull heads, wearing a dark robe covered in grapes and vines. He holds a scepter in one hand and a pentacle in the other, and one foot rests on a carved boar's head. A castle rises behind the garden wall, and flowers and vines surround him.",
+  "symbols": [
+   "Bull heads",
+   "Grapes and vines",
+   "Castle",
+   "Scepter and pentacle",
+   "Boar's head"
+  ]
+ }
+]

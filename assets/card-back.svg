@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 340" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#2a2150"/>
+      <stop offset="1" stop-color="#120e24"/>
+    </radialGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="0.9" fill="#d6b478" opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect width="200" height="340" fill="url(#bg)"/>
+  <rect width="200" height="340" fill="url(#dots)"/>
+  <g fill="none" stroke="#d6b478" stroke-width="1.2" opacity=".9">
+    <rect x="10" y="10" width="180" height="320" rx="8"/>
+    <rect x="16" y="16" width="168" height="308" rx="5" opacity=".5"/>
+    <circle cx="100" cy="170" r="54"/>
+    <circle cx="100" cy="170" r="46" opacity=".5"/>
+    <path d="M100 98 L100 242 M28 170 L172 170" opacity=".35"/>
+    <path d="M100 116 L113 157 L154 170 L113 183 L100 224 L87 183 L46 170 L87 157 Z" fill="#d6b478" fill-opacity=".12"/>
+    <path d="M100 136 L106 164 L134 170 L106 176 L100 204 L94 176 L66 170 L94 164 Z" fill="#d6b478" fill-opacity=".35"/>
+  </g>
+  <g fill="#d6b478">
+    <path d="M100 44 a14 14 0 1 0 0.01 0 Z M106 44 a11 11 0 1 1 -0.01 0 Z" fill-rule="evenodd" opacity=".85"/>
+    <circle cx="100" cy="296" r="9" opacity=".85"/>
+    <circle cx="40" cy="60" r="1.6"/><circle cx="160" cy="60" r="1.6"/>
+    <circle cx="40" cy="280" r="1.6"/><circle cx="160" cy="280" r="1.6"/>
+    <circle cx="100" cy="170" r="3"/>
+  </g>
+</svg>
